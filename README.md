@@ -1,3 +1,27 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+# osTicket - Ticket Lifecycle: Intake Through Resolution
+
+pp
+
+## Environments and Technologies Used
+
+- **Windows 10 (21H2)**
+- **Internet Information Services (IIS)**
+
+
+## Skills Demonstrated
+
+- Enabling and configuring Internet Information Services (IIS)
+- Installing and managing web platform components (PHP Manager, URL Rewrite)
+- Installing and configuring Microsoft Visual C++ Redistributables
+- Database installation, configuration, and security management using MySQL
+- Deploying and configuring web applications (osTicket) with required PHP extensions
+- Managing file permissions and completing web-based application setup
+
+
 ## Tasks for this project
 
 ### 1. Enable Internet Information Services (IIS) and Required Features
