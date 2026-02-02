@@ -4,7 +4,7 @@
 
 # osTicket - Prerequisites and Installation
 
-This project demonstrates hands-on experience with Windows 10 and Internet Information Services (IIS), including full installation and configuration of IIS, web platform components, and Microsoft Visual C++ Redistributables. It covers MySQL database setup and security, deployment and configuration of the osTicket web application with required PHP extensions, and file permission management to ensure operational readiness. The project reflects real enterprise IT responsibilities, including web server configuration, application deployment, and secure management of system and database resources.
+This project demonstrates hands-on experience with web server and application management, including full installation and configuration of web platform components and Microsoft Visual C++ Redistributables. It covers MySQL database setup and security, deployment and configuration of the osTicket web application with required PHP extensions, and file permission management to ensure operational readiness. The project reflects real enterprise IT responsibilities, including web server configuration, application deployment, and secure management of system and database resources.
 
 ## Environments and Technologies Used
 
