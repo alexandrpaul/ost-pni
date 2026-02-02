@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-# osTicket - Ticket Lifecycle: Intake Through Resolution
+# osTicket - Prerequisites and Installation
 
 pp
 
