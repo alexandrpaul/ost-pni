@@ -49,8 +49,6 @@ Install osTicket and enable the following PHP extensions: **php_imap.dll**, **ph
     **C:\inetpub\wwwroot\osTicket\include\ost-config.php**
     and configure its permissions for **Everyone**.
 
-Proceed with the osTicket setup via a web browser. Once configuration is complete, click **Install Now** to finalize the installation.
-
-
+Proceed with the **osTicket** setup via a web browser. Once configuration is complete, click **Install Now** to finalize the installation.
 
 ![Screenshot](https://github.com/alexandrpaul/ost-pni/blob/9a9a2903f2c890fe6c027e06c4e96336ff088927/Screenshots/img7.png)
